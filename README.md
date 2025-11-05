@@ -11,4 +11,4 @@ Main topics will be:
 - Note taking (Obsidian is my weapon of choice)
 - IT Trends
 - Public Services (for Example public Transport)
-- IT Security [For more Information](https://github.com/hannes-schniz/securitresources)
+- IT Security [For more Information](https://github.com/hannes-schniz/securityresources)
